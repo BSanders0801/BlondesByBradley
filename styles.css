@@ -264,3 +264,10 @@ input:focus,select:focus,textarea:focus{border-bottom-color:var(--ivory)}
   .agents-work-frame{aspect-ratio:auto}
   .agents-work-frame img{height:auto}
 }
+
+/* Preserve source proportions when gallery and About photos scale down. */
+.pw img,
+.about-photo img{
+  height:auto;
+  object-fit:contain;
+}

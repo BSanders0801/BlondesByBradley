@@ -20,4 +20,4 @@ Image placement (each used exactly once):
 
 All image assets are the charcoal-background versions approved in the conversation. No photo is repeated anywhere in the site.
 
-Booking currently points to the existing Cutler West Hollywood booking destination used by the prior site. Contact uses bradley@blondesbybradley.com, 213.973.9404, and @blondesbybradley.
+Booking buttons call Saulino Smith Salon reception at (424) 433-3354 so clients can request Bradley Sanders. Contact uses bradley@blondesbybradley.com, 213.973.9404, and @blondesbybradley.
